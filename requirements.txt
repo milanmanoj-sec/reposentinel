@@ -1,0 +1,5 @@
+# RepoSentinel has no external dependencies.
+# It uses Python's standard library only (Python 3.7+).
+#
+# To run:
+#   python scanner.py /path/to/repo
